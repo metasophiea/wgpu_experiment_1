@@ -114,6 +114,7 @@ pub mod library;
                             library::MessageFromOrchestratorToRenderer::Test(number) => {
                                 match number {
                                     1 => self.test1(),
+                                    2 => self.test2(),
                                     _ => {},
                                 }
                             },
