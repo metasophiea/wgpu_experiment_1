@@ -1,9 +1,0 @@
-/Users/metasophiea/Code/Rust/lessions/wgpu/wgpu people/wgpu_experiment_1/target/rls/debug/deps/libproc_macro_hack-6ce423978bbd847c.dylib: /Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/lib.rs /Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/quote.rs /Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/error.rs /Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/iter.rs /Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/parse.rs
-
-/Users/metasophiea/Code/Rust/lessions/wgpu/wgpu people/wgpu_experiment_1/target/rls/debug/deps/proc_macro_hack-6ce423978bbd847c.d: /Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/lib.rs /Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/quote.rs /Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/error.rs /Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/iter.rs /Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/parse.rs
-
-/Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/lib.rs:
-/Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/quote.rs:
-/Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/error.rs:
-/Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/iter.rs:
-/Users/metasophiea/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.19/src/parse.rs:
