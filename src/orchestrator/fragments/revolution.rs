@@ -17,7 +17,7 @@ impl Orchestrator {
 
         //logic
             if self.tick == 1 {
-                self.renderer__communicator.send_message( renderer::library::MessageFromOrchestratorToRenderer::Test(2) ).ok();
+                self.renderer__communicator.send_message( renderer::library::MessageFromOrchestratorToRenderer::Test(3) ).ok();
             }
     }
 }

@@ -115,6 +115,7 @@ pub mod library;
                                 match number {
                                     1 => self.test1(),
                                     2 => self.test2(),
+                                    3 => self.test3(),
                                     _ => {},
                                 }
                             },
